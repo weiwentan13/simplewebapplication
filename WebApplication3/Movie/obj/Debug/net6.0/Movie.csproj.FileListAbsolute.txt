@@ -1,0 +1,12 @@
+C:\Users\weiwe\source\repos\WebApplication3\Movie\bin\Debug\net6.0\Movie.deps.json
+C:\Users\weiwe\source\repos\WebApplication3\Movie\bin\Debug\net6.0\Movie.dll
+C:\Users\weiwe\source\repos\WebApplication3\Movie\bin\Debug\net6.0\Movie.pdb
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.dll
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\refint\Movie.dll
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\Movie.pdb
+C:\Users\weiwe\source\repos\WebApplication3\Movie\obj\Debug\net6.0\ref\Movie.dll
