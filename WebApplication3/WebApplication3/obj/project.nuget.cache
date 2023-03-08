@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZ4CMwXSij0AOQRgqvYLXzxisTq02/J8B2rCKL3+2adE3/CMho8mPKxvzGhXTBewPEluVSrpgpTTvSa/BNGimQ==",
+  "dgSpecHash": "XLw8KIRp1GZnNalZ2AUrI6mk2gO9Fk32s9enzZ01ef6enUh51gi6zXrM1tL+CaLKnP0UaDWfZiBa76xFSa2VEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\weiwe\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\weiwe\\source\\repos\\simplewebapplication\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\weiwe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\weiwe\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",

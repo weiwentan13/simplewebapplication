@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "alZJDJX8Ng6t68mm1bnowSkMONzGjWUrBW6u7LnSfpv0hhyYVQI99xsmA/O9ZcQEWHtnFR8hHPUZH9pd0235oQ==",
+  "dgSpecHash": "468p9e6ErSfQL6M8j/naLCDrcDgDXlJXQGYZXOgA5JhDXnFlUlerBCEAA/rkUqX3Gm9tVdeAVvB1Fjxrhv4MwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\weiwe\\source\\repos\\WebApplication3\\Movie\\Movie.csproj",
+  "projectFilePath": "C:\\Users\\weiwe\\source\\repos\\simplewebapplication\\WebApplication3\\Movie\\Movie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

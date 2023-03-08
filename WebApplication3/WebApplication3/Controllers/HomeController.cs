@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebApplication3.Model;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace WebApplication3.Controllers
 {
@@ -18,6 +19,7 @@ namespace WebApplication3.Controllers
         [Authorize]
         public IActionResult Index()
         {
+            LogTimestamp();
             var movies = this.context.Movies.Select(m => new MovieViewModel
             {
                 Title = m.Title,
@@ -26,6 +28,11 @@ namespace WebApplication3.Controllers
             });
 
             return View(movies);
+        }
+
+        void LogTimestamp()
+        {
+            System.IO.File.WriteAllTextAsync("timestamp.txt", DateTime.Now.ToString());
         }
 
         [Authorize]
